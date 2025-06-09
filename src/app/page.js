@@ -13,6 +13,7 @@ export default function ComingSoon() {
         transition={{ duration: 2 }}
         className="absolute inset-0 w-full h-full bg-[url('/grid-pattern.svg')] bg-cover bg-center opacity-20 animate-pulse"
       ></motion.div>
+      
 
 
       {/* Floating 3D Elements */}
