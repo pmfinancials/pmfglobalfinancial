@@ -14,6 +14,7 @@ export default function ComingSoon() {
         className="absolute inset-0 w-full h-full bg-[url('/grid-pattern.svg')] bg-cover bg-center opacity-20 animate-pulse"
       ></motion.div>
 
+
       {/* Floating 3D Elements */}
       <motion.div
         initial={{ opacity: 0, rotateX: 45, rotateY: 45 }}
